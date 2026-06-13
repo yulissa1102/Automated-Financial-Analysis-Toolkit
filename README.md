@@ -46,8 +46,6 @@ The project supports my positioning as an AI-enhanced Finance & ESG Analyst by c
 - Market data assumptions
 
 ## Project Structure
-
-```text
 automated-financial-analysis-toolkit/
 ├── data/
 │   ├── garmin_financials_template.csv
