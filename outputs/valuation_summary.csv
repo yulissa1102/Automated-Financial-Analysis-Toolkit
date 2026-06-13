@@ -1,0 +1,7 @@
+metric,value,formatted_value,interpretation
+Cost of Equity,0.0915,9.15%,"Estimated using CAPM based on risk-free rate, beta, and market risk premium"
+After-tax Cost of Debt,0.022910000000000003,2.29%,Reflects tax shield benefit on debt financing
+Debt Weight,0.13,13.00%,Assumed debt share in the target capital structure
+Equity Weight,0.87,87.00%,Implied equity share in the target capital structure
+WACC,0.0825833,8.26%,Weighted average cost of capital used as the DCF discount rate
+DCF Enterprise Value,30292771.545341015,$30.29 billion,Estimated enterprise value from simplified DCF valuation

@@ -1,0 +1,4 @@
+scenario,growth_rate,discount_rate,terminal_growth_rate,enterprise_value
+Pessimistic,0.02,0.095,0.015,20658279.551610254
+Base,0.04,0.0825833,0.025,30292771.545341015
+Optimistic,0.06,0.075,0.03,41651997.768058814

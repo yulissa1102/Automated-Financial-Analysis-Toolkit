@@ -1,0 +1,11 @@
+Garmin Financial Analysis Summary
+
+Garmin demonstrates strong profitability based on the latest available ratio analysis. In 2020, the company reported ROA of 15.04% and ROE of 19.25%, both classified as strong under the toolkit's interpretation framework.
+
+The company also maintains a conservative leverage profile, with a debt ratio of 21.55%. Interest coverage is marked as N/A because Garmin has no meaningful interest expense in the input data.
+
+Using the CAPM approach, Garmin's estimated cost of equity is 9.15%. After incorporating the assumed cost of debt, tax rate, and target capital structure, the estimated WACC is 8.26%. This WACC is used as the discount rate in the base-case DCF model.
+
+Under the base-case DCF scenario, Garmin's enterprise value is estimated at approximately $30.29 billion. The scenario analysis shows a valuation range from approximately $20.7 billion in the pessimistic case to approximately $41.7 billion in the optimistic case.
+
+Overall, the toolkit suggests that Garmin combines strong profitability, conservative leverage, and meaningful valuation sensitivity to growth and discount rate assumptions. This analysis is intended as a simplified financial modelling exercise rather than a full investment recommendation.

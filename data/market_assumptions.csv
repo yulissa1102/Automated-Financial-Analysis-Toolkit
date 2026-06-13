@@ -1,0 +1,10 @@
+input,value,source
+risk_free_rate,0.0455,FRED DGS10
+beta,0.92,Yahoo Finance GRMN statistics
+market_risk_premium,0.05,Damodaran / Garmin case assumption
+tax_rate,0.21,Garmin case
+cost_of_debt,0.029,Garmin case scenario assumption
+debt_weight,0.13,Garmin case scenario assumption
+base_free_cash_flow,1594000,Garmin 2025 Annual Report free cash flow
+fcf_growth_rate,0.04,Simplified base case assumption
+terminal_growth_rate,0.025,Simplified long-term growth assumption
