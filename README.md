@@ -107,3 +107,7 @@ ESG-aware company research
 8. Created sensitivity analysis charts to show how enterprise value changes under different WACC and FCF growth assumptions.
 9. Generated analyst-style output tables and a written financial summary.
 10. Integrated all modules into a single `main.py` workflow that produces CSV outputs, charts, and a summary file.
+
+## Disclaimer
+
+This project is for educational and portfolio purposes only. It is a simplified financial modelling exercise and should not be interpreted as investment advice. Company data and market assumptions are based on public or third-party sources and remain subject to their original source terms.
